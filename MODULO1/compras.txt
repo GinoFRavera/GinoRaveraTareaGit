@@ -2,3 +2,5 @@ galletitas
 agua 
 frutas 
 tomate 
+gym 
+super 
